@@ -1,0 +1,2 @@
+# PythonTheHardWay
+Programming exercises
